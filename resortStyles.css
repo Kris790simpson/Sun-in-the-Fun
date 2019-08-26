@@ -1,0 +1,23 @@
+* {
+	background-color: Aquamarine;
+	font-family: "Comic Sans MS", Times, serif;
+}
+
+#header {
+	text-align: center;
+	height: 50px;
+	border: 2px solid SaddleBrown;
+}
+
+#header2 {
+	color: Blue;
+	font-family: Georgia, serif;
+}
+
+li {
+	color: Coral;
+}
+
+.list2 {
+	color: HotPink;
+}
